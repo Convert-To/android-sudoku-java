@@ -1,0 +1,7 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="numBtn_width">32dp</dimen>
+    <dimen name="numBtn_height">32dp</dimen>
+    <dimen name="actBtn_width">24dp</dimen>
+    <dimen name="actBtn_height">24dp</dimen>
+</resources>
